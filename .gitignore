@@ -1,0 +1,13 @@
+# Build outputs
+Debug/
+Release/
+
+# Backup files
+*.bak
+*.orig
+*~
+
+# IDE and OS files
+.metadata/
+.DS_Store
+Thumbs.db
